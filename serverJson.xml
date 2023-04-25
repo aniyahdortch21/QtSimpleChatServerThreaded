@@ -1,0 +1,16 @@
+{
+    "": [
+        {
+            "SENT": {
+                "destination": "",
+                "source": "NIYAH",
+                "text": "hello",
+                "type": "message"
+            }
+        }
+    ],
+    "CHRIS": [
+    ],
+    "NIYAH": [
+    ]
+}
